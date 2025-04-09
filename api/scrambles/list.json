@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Chautauqua",
+    "description": "The most famous scrambles in Boulder including the First, Second, and Third Flatirons.",
+    "popularity": 5,
+    "parkingRating": "Bad",
+    "parking": "Chautauqua parking lot. Often full and paid from Memorial Day to Labor Day. Can fall back to street parking if lot is full.",
+    "scrambles": [
+      {
+        "id": 1,
+        "name": "Freeway, Second Flatiron",
+        "difficulty": "5.0",
+        "isClosed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hollyberry",
+    "description": "A lesser-known area with some great scrambles.",
+    "popularity": 1,
+    "parkingRating": "Good",
+    "parking": "Street/neighborhood parking",
+    "scrambles": [
+      {
+        "id": 1,
+        "name": "Buckets, Amoeboid",
+        "difficulty": "5.2",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "NCAR",
+    "description": "The National Center for Atmospheric Research area has some great scrambles.",
+    "popularity": 4,
+    "parkingRating": "Great",
+    "parking": "Huge NCAR parking lot",
+    "scrambles": [
+      {
+        "id": 1,
+        "name": "Angel's Way, Ridge 3",
+        "difficulty": "5.2",
+        "isClosed": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cragmoor",
+    "description": "Cragmoor trailhead leads to a handful of scrambles, with the main being The Slab.",
+    "popularity": 3,
+    "parkingRating": "Good",
+    "parking": "Street/neighborhood parking",
+    "scrambles": [
+      {
+        "id": 1,
+        "name": "Diagonal, The Slab",
+        "difficulty": "5.0",
+        "isClosed": false
+      }
+    ]
+  }
+]
