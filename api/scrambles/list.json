@@ -7376,7 +7376,7 @@
     "parking": "Street/neighborhood parking",
     "scrambles": [
       {
-        "id": 1,
+        "id": 22,
         "name": "Diagonal, The Slab",
         "latitude": 39.963010000000025,
         "longitude": -105.28652400000001,
@@ -18622,6 +18622,30 @@
         ],
         "mountainProjectLink": "https://www.mountainproject.com/route/105755899/diagonal",
         "stravaLink": "https://www.strava.com/segments/22022151"
+      },
+      {
+        "id": 23,
+        "name": "East Face, Northern Shanahan Crag",
+        "latitude": 39.961148000000044,
+        "longitude": -105.287272,
+        "elevationGain": 550,
+        "difficulty": "5.1",
+        "relativeDifficulty": "Easy",
+        "descent": "Walk off",
+        "mountainProjectLink": "https://www.mountainproject.com/route/111304235/east-face-northern-shanahan-slab",
+        "isClosed": false
+      },
+      {
+        "id": 24,
+        "name": "Southeast Ridge, Central Shanahan Crag",
+        "latitude": 39.96026599999999,
+        "longitude": -105.28757199999998,
+        "elevationGain": 600,
+        "difficulty": "5.0",
+        "relativeDifficulty": "Easy",
+        "descent": "Downclimb (class 3)",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105752566/southeast-ridge",
+        "isClosed": false
       }
     ]
   }
