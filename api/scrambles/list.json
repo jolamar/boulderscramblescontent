@@ -7075,6 +7075,25 @@
             2119.2
           ]
         ]
+      },
+      {
+        "id": 2,
+        "name": "Direct East Face (DEF), First Flatiron",
+        "latitude": 39.991151,
+        "longitude": -105.293219,
+        "elevationGain": 1000,
+        "difficulty": "5.6",
+        "isClosed": false,
+        "relativeDifficulty": "Advanced",
+        "descent": "Downclimb (5.4)",
+        "mensRecordHolder": "Kyle Richardson",
+        "mensRecordDate": "October 15, 2019",
+        "mensRecordTime": "30 minutes 19 seconds",
+        "womensRecordHolder": "Bailee Mulholland",
+        "womensRecordDate": "November 1, 2022",
+        "womensRecordTime": "41 minutes 4 seconds",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105748268/direct-route",
+        "stravaLink": "https://www.strava.com/segments/928263"
       }
     ]
   },
