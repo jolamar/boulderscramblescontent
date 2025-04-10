@@ -7210,8 +7210,14 @@
       {
         "id": 1,
         "name": "Buckets, Amoeboid",
-        "difficulty": "5.2",
-        "isClosed": true
+        "latitude": 39.980477000000015,
+        "longitude": -105.291878,
+        "difficulty": "5.0",
+        "elevationGain": 300,
+        "relativeDifficulty": "Easy",
+        "descent": "Downclimb (class 2)",
+        "isClosed": false,
+        "mountainProjectLink": "https://www.mountainproject.com/route/105754255/buckets"
       }
     ]
   },
