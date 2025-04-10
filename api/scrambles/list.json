@@ -7208,7 +7208,7 @@
     "parking": "Street/neighborhood parking",
     "scrambles": [
       {
-        "id": 1,
+        "id": 10,
         "name": "Buckets, Amoeboid",
         "latitude": 39.980477000000015,
         "longitude": -105.291878,
@@ -7218,6 +7218,54 @@
         "descent": "Downclimb (class 2)",
         "isClosed": false,
         "mountainProjectLink": "https://www.mountainproject.com/route/105754255/buckets"
+      },
+      {
+        "id": 11,
+        "name": "Yodeling Moves, Hammerhead",
+        "latitude": 39.984014,
+        "longitude": -105.29205599999999,
+        "elevationGain": 400,
+        "difficulty": "5.0",
+        "relativeDifficulty": "Intermediate",
+        "descent": "Downclimb (5.0)",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105754267/yodeling-moves",
+        "isClosed": false
+      },
+      {
+        "id": 12,
+        "name": "El Camino Royale, The Regency",
+        "latitude": 39.98243399999996,
+        "longitude": -105.290049,
+        "elevationGain": 900,
+        "difficulty": "5.0",
+        "relativeDifficulty": "Easy",
+        "descent": "Downclimb (5.0)",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105755710/el-camino-royale",
+        "isClosed": false
+      },
+      {
+        "id": 13,
+        "name": "Royal Arch",
+        "latitude": 39.98204500000003,
+        "longitude": -105.291395,
+        "elevationGain": 300,
+        "difficulty": "5.0",
+        "relativeDifficulty": "Easy",
+        "descent": "Downclimb (5.0)",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105755713/east-faceroyal-arch",
+        "isClosed": false
+      },
+      {
+        "id": 14,
+        "name": "East Face South Side, Fifth Flatiron",
+        "latitude": 39.98194100000003,
+        "longitude": -105.292838,
+        "elevationGain": 500,
+        "difficulty": "5.5",
+        "relativeDifficulty": "Easy",
+        "descent": "Downclimb (5.3)",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105752398/east-face-south-side-or-left",
+        "isClosed": false
       }
     ]
   },
