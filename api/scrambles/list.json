@@ -7094,6 +7094,25 @@
         "womensRecordTime": "41 minutes 4 seconds",
         "mountainProjectLink": "https://www.mountainproject.com/route/105748268/direct-route",
         "stravaLink": "https://www.strava.com/segments/928263"
+      },
+      {
+        "id": 3,
+        "name": "East Face, Third Flatiron",
+        "latitude": 39.98738800000003,
+        "longitude": -105.29228200000001,
+        "elevationGain": 950,
+        "difficulty": "5.4",
+        "relativeDifficulty": "Intermediate",
+        "descent": "3 rappels",
+        "mensRecordHolder": "Kyle Richardson",
+        "mensRecordDate": "October 9, 2019",
+        "mensRecordTime": "30 minutes 26 seconds",
+        "womensRecordHolder": "Sonia Buckley",
+        "womensRecordDate": "October 9, 2019",
+        "womensRecordTime": "43 minutes 42 seconds",
+        "mountainProjectLink": "https://www.mountainproject.com/route/105748047/east-face-standard",
+        "stravaLink": "https://www.strava.com/segments/928265",
+        "isClosed": true
       }
     ]
   },
