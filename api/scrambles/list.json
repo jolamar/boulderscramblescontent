@@ -58,6 +58,8 @@
       {
         "id": 1,
         "name": "Diagonal, The Slab",
+        "latitude": 39.963010000000025,
+        "longitude": -105.28652400000001,
         "difficulty": "5.0",
         "elevationGain": 1100,
         "isClosed": false,
