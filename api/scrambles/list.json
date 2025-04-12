@@ -7151,6 +7151,7 @@
       },
       {
         "id": 6,
+        "arcgisId": 7,
         "name": "North Arête, First Flatiron",
         "latitude": 39.99115084135656,
         "longitude": -105.29361684514559,
@@ -7162,7 +7163,8 @@
       },
       {
         "id": 7,
-        "name": "Baker's Way",
+        "arcgisId": 7,
+        "name": "Baker's Way, First Flatiron",
         "latitude": 39.99066653998006,
         "longitude": -105.29295766551533,
         "elevationGain": 700,
@@ -7173,9 +7175,10 @@
       },
       {
         "id": 8,
+        "arcgisId": 65,
         "name": "South Ridge, First Flatironette and East Ridge, Spy",
-        "latitude": 39.992053000000006,
-        "longitude": -105.292549,
+        "latitude": 39.992096601787324,
+        "longitude": -105.29301356940171,
         "elevationGain": 1190,
         "difficulty": "5.2",
         "relativeDifficulty": "Intermediate",
@@ -7184,6 +7187,7 @@
       },
       {
         "id": 9,
+        "arcgisId": 7,
         "name": "Southwest Face, First Flatiron",
         "latitude": 39.99115084135656,
         "longitude": -105.29361684514559,
@@ -7205,6 +7209,7 @@
     "scrambles": [
       {
         "id": 10,
+        "arcgisId": 133,
         "name": "Buckets, Amoeboid",
         "latitude": 39.980477000000015,
         "longitude": -105.291878,
@@ -7216,6 +7221,7 @@
       },
       {
         "id": 11,
+        "arcgisId": 308,
         "name": "Yodeling Moves, Hammerhead",
         "latitude": 39.984014,
         "longitude": -105.29205599999999,
@@ -7227,6 +7233,7 @@
       },
       {
         "id": 12,
+        "arcgisId": 24,
         "name": "El Camino Royale, The Regency",
         "latitude": 39.98243399999996,
         "longitude": -105.290049,
@@ -7238,6 +7245,7 @@
       },
       {
         "id": 13,
+        "arcgisId": 84,
         "name": "Royal Arch",
         "latitude": 39.98204500000003,
         "longitude": -105.291395,
@@ -7249,6 +7257,7 @@
       },
       {
         "id": 14,
+        "arcgisId": 104,
         "name": "East Face South Side, Fifth Flatiron",
         "latitude": 39.98194100000003,
         "longitude": -105.292838,
@@ -7270,6 +7279,7 @@
     "scrambles": [
       {
         "id": 15,
+        "arcgisId": 1180,
         "name": "Angel's Way, Ridge 3",
         "latitude": 39.9783059,
         "longitude": -105.2914291,
@@ -7279,6 +7289,7 @@
       },
       {
         "id": 16,
+        "arcgisId": 1178,
         "name": "Stairway to Heaven, Ridge 1",
         "latitude": 39.978311600000005,
         "longitude": -105.2891529,
@@ -7293,6 +7304,7 @@
       },
       {
         "id": 17,
+        "arcgisId": 107,
         "name": "Tiptoe Slab, Frontporch",
         "latitude": 39.97697581835914,
         "longitude": -105.28804612268448,
@@ -7307,6 +7319,7 @@
       },
       {
         "id": 18,
+        "arcgisId": 107,
         "name": "East Face Center, Frontporch",
         "latitude": 39.976751000000014,
         "longitude": -105.28814,
@@ -7318,6 +7331,7 @@
       },
       {
         "id": 19,
+        "arcgisId": 54,
         "name": "East Face/West Face, Dinosaur Rock",
         "latitude": 39.973485,
         "longitude": -105.28741,
@@ -7329,6 +7343,7 @@
       },
       {
         "id": 20,
+        "arcgisId": 94,
         "name": "Sunnyside Two, Der Zerkle",
         "latitude": 39.97415800000001,
         "longitude": -105.28806500000002,
@@ -7340,6 +7355,7 @@
       },
       {
         "id": 21,
+        "arcgisId": 75,
         "name": "South Ridge, Overture and East Face Left, Der Freischutz",
         "latitude": 39.97298299999999,
         "longitude": -105.28817199999999,
@@ -7361,6 +7377,7 @@
     "scrambles": [
       {
         "id": 22,
+        "arcgisId": 321,
         "name": "Diagonal, The Slab",
         "latitude": 39.963010000000025,
         "longitude": -105.28652400000001,
@@ -18608,6 +18625,7 @@
       },
       {
         "id": 23,
+        "arcgisId": 89,
         "name": "East Face, Northern Shanahan Crag",
         "latitude": 39.961148000000044,
         "longitude": -105.287272,
@@ -18619,6 +18637,7 @@
       },
       {
         "id": 24,
+        "arcgisId": 89,
         "name": "Southeast Ridge, Central Shanahan Crag",
         "latitude": 39.96026599999999,
         "longitude": -105.28757199999998,
