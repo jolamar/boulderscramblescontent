@@ -9,11 +9,11 @@
     "scrambles": [
       {
         "id": 1,
+        "arcgisId": 65,
         "name": "Freeway, Second Flatiron",
-        "latitude": 39.989635000000014,
-        "longitude": -105.292693,
+        "latitude": 39.98962851634554,
+        "longitude": -105.29262164947927,
         "difficulty": "5.0",
-        "isClosed": false,
         "elevationGain": 800,
         "relativeDifficulty": "Easy",
         "descent": "Walk off",
@@ -7083,7 +7083,6 @@
         "longitude": -105.293219,
         "elevationGain": 1000,
         "difficulty": "5.6",
-        "isClosed": false,
         "relativeDifficulty": "Advanced",
         "descent": "Downclimb (5.4)",
         "mensRecordHolder": "Kyle Richardson",
@@ -7111,8 +7110,7 @@
         "womensRecordDate": "October 9, 2019",
         "womensRecordTime": "43 minutes 42 seconds",
         "mountainProjectLink": "https://www.mountainproject.com/route/105748047/east-face-standard",
-        "stravaLink": "https://www.strava.com/segments/928265",
-        "isClosed": true
+        "stravaLink": "https://www.strava.com/segments/928265"
       },
       {
         "id": 4,
@@ -7127,8 +7125,7 @@
         "womensRecordHolder": "Sonia Buckley",
         "womensRecordDate": "2017 TDF Stage 2",
         "womensRecordTime": "1 hour 27 minutes 3 seconds",
-        "stravaLink": "https://www.strava.com/segments/38888451",
-        "isClosed": true
+        "stravaLink": "https://www.strava.com/segments/38888451"
       },
       {
         "id": 5,
@@ -7146,8 +7143,7 @@
         "womensRecordDate": "October 9, 2019",
         "womensRecordTime": "43 minutes 42 seconds",
         "mountainProjectLink": "https://www.mountainproject.com/route/105748047/east-face-standard",
-        "stravaLink": "https://www.strava.com/segments/928265",
-        "isClosed": true
+        "stravaLink": "https://www.strava.com/segments/928265"
       },
       {
         "id": 6,
@@ -7158,8 +7154,7 @@
         "difficulty": "5.3",
         "relativeDifficulty": "Intermediate",
         "descent": "Downclimb Southwest Face (5.2)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105752794/north-arete",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105752794/north-arete"
       },
       {
         "id": 7,
@@ -7170,8 +7165,7 @@
         "difficulty": "5.3",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb Southwest Face (5.2)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105754588/bakers-way",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105754588/bakers-way"
       },
       {
         "id": 8,
@@ -7182,8 +7176,7 @@
         "difficulty": "5.2",
         "relativeDifficulty": "Intermediate",
         "descent": "Easy jump",
-        "zoom": 19,
-        "isClosed": false
+        "zoom": 19
       },
       {
         "id": 9,
@@ -7194,8 +7187,7 @@
         "difficulty": "5.2",
         "relativeDifficulty": "Intermediate",
         "descent": "Downclimb (5.2)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105750976/southwest-face",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105750976/southwest-face"
       }
     ]
   },
@@ -7216,7 +7208,6 @@
         "elevationGain": 300,
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (class 2)",
-        "isClosed": false,
         "mountainProjectLink": "https://www.mountainproject.com/route/105754255/buckets"
       },
       {
@@ -7228,8 +7219,7 @@
         "difficulty": "5.0",
         "relativeDifficulty": "Intermediate",
         "descent": "Downclimb (5.0)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105754267/yodeling-moves",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105754267/yodeling-moves"
       },
       {
         "id": 12,
@@ -7240,8 +7230,7 @@
         "difficulty": "5.0",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (5.0)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105755710/el-camino-royale",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105755710/el-camino-royale"
       },
       {
         "id": 13,
@@ -7252,8 +7241,7 @@
         "difficulty": "5.0",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (5.0)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105755713/east-faceroyal-arch",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105755713/east-faceroyal-arch"
       },
       {
         "id": 14,
@@ -7264,8 +7252,7 @@
         "difficulty": "5.5",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (5.3)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105752398/east-face-south-side-or-left",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105752398/east-face-south-side-or-left"
       }
     ]
   },
@@ -7284,8 +7271,7 @@
         "longitude": -105.2914291,
         "descent": "Downclimb (5.0)",
         "difficulty": "5.2",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105758545/angels-way",
-        "isClosed": true
+        "mountainProjectLink": "https://www.mountainproject.com/route/105758545/angels-way"
       },
       {
         "id": 16,
@@ -7299,8 +7285,7 @@
         "mountainProjectLink": "https://www.mountainproject.com/route/105756502/stairway-to-heaven",
         "mensRecordHolder": "Cordis Hall",
         "mensRecordDate": "2017 TDF Stage 5",
-        "mensRecordTime": "29 minutes 26 seconds",
-        "isClosed": false
+        "mensRecordTime": "29 minutes 26 seconds"
       },
       {
         "id": 17,
@@ -7314,8 +7299,7 @@
         "mountainProjectLink": "https://www.mountainproject.com/route/105750784/tiptoe-slab",
         "mensRecordHolder": "Dave Mackey",
         "mensRecordDate": "October 10, 2007",
-        "mensRecordTime": "20 minutes 59 seconds",
-        "isClosed": false
+        "mensRecordTime": "20 minutes 59 seconds"
       },
       {
         "id": 18,
@@ -7326,15 +7310,13 @@
         "difficulty": "5.0",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (awkward 5.2)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105751699/east-face-center",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105751699/east-face-center"
       },
       {
         "id": 19,
         "name": "East Face/West Face, Dinosaur Rock",
         "latitude": 39.973485,
         "longitude": -105.28741,
-        "isClosed": false,
         "elevationGain": 295,
         "difficulty": "5.4",
         "relativeDifficulty": "Easy",
@@ -7350,8 +7332,7 @@
         "difficulty": "4th class",
         "relativeDifficulty": "Easy",
         "descent": "Walk off",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105754471/sunny-side-two",
-        "isClosed": true
+        "mountainProjectLink": "https://www.mountainproject.com/route/105754471/sunny-side-two"
       },
       {
         "id": 21,
@@ -7362,8 +7343,7 @@
         "difficulty": "5.0",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (awkward 5.0)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105758928/south-ridge-overture",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105758928/south-ridge-overture"
       }
     ]
   },
@@ -7382,7 +7362,6 @@
         "longitude": -105.28652400000001,
         "difficulty": "5.0",
         "elevationGain": 1100,
-        "isClosed": false,
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (awkward 5.0)",
         "mensRecordHolder": "Michael Reese",
@@ -18632,8 +18611,7 @@
         "difficulty": "5.1",
         "relativeDifficulty": "Easy",
         "descent": "Walk off",
-        "mountainProjectLink": "https://www.mountainproject.com/route/111304235/east-face-northern-shanahan-slab",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/111304235/east-face-northern-shanahan-slab"
       },
       {
         "id": 24,
@@ -18644,8 +18622,7 @@
         "difficulty": "5.0",
         "relativeDifficulty": "Easy",
         "descent": "Downclimb (class 3)",
-        "mountainProjectLink": "https://www.mountainproject.com/route/105752566/southeast-ridge",
-        "isClosed": false
+        "mountainProjectLink": "https://www.mountainproject.com/route/105752566/southeast-ridge"
       }
     ]
   }
