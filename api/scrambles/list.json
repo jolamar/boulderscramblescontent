@@ -7078,9 +7078,10 @@
       },
       {
         "id": 2,
+        "arcgisId": 7,
         "name": "Direct East Face (DEF), First Flatiron",
-        "latitude": 39.991151,
-        "longitude": -105.293219,
+        "latitude": 39.99102202288763,
+        "longitude": -105.29340376644137,
         "elevationGain": 1000,
         "difficulty": "5.6",
         "relativeDifficulty": "Advanced",
