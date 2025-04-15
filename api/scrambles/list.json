@@ -60351,6 +60351,13 @@
         "descent": "Downclimb (class 2)",
         "mountainProjectLink": "https://www.mountainproject.com/route/105754255/buckets",
         "stravaLink": "https://www.strava.com/segments/24076764",
+        "images": [
+          "images/buckets/1.JPEG",
+          "images/buckets/2.JPEG",
+          "images/buckets/3.JPEG",
+          "images/buckets/4.JPEG",
+          "images/buckets/5.JPEG"
+        ],
         "approachPolyline": [
           [
             -105.272366,
