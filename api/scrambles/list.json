@@ -4,6 +4,7 @@
     "name": "Chautauqua",
     "description": "The most famous scrambles in Boulder including the First, Second, and Third Flatirons.",
     "popularity": 5,
+    "directionsLink": "https://maps.app.goo.gl/16m9zcc5azybGazo9",
     "parkingRating": "Bad",
     "parking": "Chautauqua parking lot. Often full and paid from Memorial Day to Labor Day. Can fall back to street parking if lot is full.",
     "scrambles": [
