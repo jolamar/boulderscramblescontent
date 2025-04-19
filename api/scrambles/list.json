@@ -7112,6 +7112,9 @@
         "womensRecordTime": "41 minutes 4 seconds",
         "mountainProjectLink": "https://www.mountainproject.com/route/105748268/direct-route",
         "stravaLink": "https://www.strava.com/segments/928263",
+        "approachDescription": "Start at the base of the Flatiron, just across and left of the bridge.",
+        "scrambleDescription": "Follow a water gully uphill, passing two eyebolts, to a ledge near a tree (~60m up). Continue straight up another 60m to a second ledge. Scramble easier terrain until you reach a large ledge that could fit around 20 people. From there, head left and up toward a slot at the left end of a roof. Climb up through the slot to begin the ridge traverse.",
+        "descentDescription": "Downclimb or rappel the Southwest Face.",
         "apprachPolyline": [
           [
             -105.282779,
