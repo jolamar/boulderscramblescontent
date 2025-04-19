@@ -139031,6 +139031,7 @@
         "id": 20,
         "arcgisId": 94,
         "name": "Sunnyside Two, Der Zerkle",
+        "isClosed": false,
         "latitude": 39.97415800000001,
         "longitude": -105.28806500000002,
         "elevationGain": 200,
